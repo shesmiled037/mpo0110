@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <link rel="stylesheet" href="https://info.gbg-coc.org/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://info.gbg-coc.org/css/jquery.paginate.css">
+    <link rel="stylesheet" href="https://info.gbg-coc.org/css/theme.css">
+    <link rel="stylesheet" href="https://info.gbg-coc.org/css/styleeditor.css">
+    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div class="container my-3">
+        <div class="d-flex my-3 align-items-center justify-content-around">
+            <div class="logo">
+                <img src="https://cdn.mixlink.top/global/seamless/1435/IDR/logo/881964785.png" alt="logo bukti jackpot  " class="logo">
+            </div>
+
+        </div>
+            <div id="title-home">
+                <h4 class="text-center text-uppercase my-3 title-home"><i class="lni lni-coin"></i> Bukti Jackpot Lunas  </h4>
+                <marquee class="teks-berjaalan" direction="left" scrollamount="5">SELAMAT DATANG DI BANDAR TOGEL, LIVE CASINO & SLOT TERBAIK DAN TERPERCAYA DI INDONESIA DENGAN BONUS - BONUS TANPA BATAS SETIAP HARI.</marquee>
+            </div>
+
+            <div id="all-jackpot" class="row justify-content-center">
+
+                <div class="col-lg-3 mb-2">
+                                                <div class="card card-post h-100 mb-3">
+                                                    <div class="row g-0">
+                                                        <div class="col-md-12">
+                                                            <img src="https://i.postimg.cc/26wx4tCJ/2025-06-2014051-ezgif-com-png-to-jpg-converter.jpg" class="lazy img-post rounded-start h-100" alt=" JACKPOT SLOT PRAMATIC STARLIGHT PRINCES 1000 Rp.63.000.000.,- LUNAS">
+                                                        </div>
+
+                                                        <div class="col-md-12">
+                                                            <div class="card-body">
+                                                                <h5><a style="color:#000"> JACKPOT SLOT PRAMATIC STARLIGHT PRINCES 1000 Rp.63.000.000.,- LUNAS</a></h5>
+                                                                <p class="time-post text-uppercase"><i class="lni lni-timer"></i>20 juni 2025</p>
+                                                                <p>Selamat Kepada Member  SLOT PRAMATIC PRAMATIC STARLIGHT PRINCES 1000 User id IR***</p>
+
+                                                                <div class="d-grid">
+                                                                    <a href="?blog=" class="btn btn-primary fw-bold btn-sm"><i class="lni lni-cash-app"></i> Read More</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                        </div>
+                                                           
+                                                   
+                                               
+                                                      
+
+        
+
+        <div class="my-2">
+      
+
+    <script src="https://info.gbg-coc.org/js/jquery-3.7.0.min.js"></script>
+    <script src="https://info.gbg-coc.org/js/bootstrap.min.js"></script>
+    <script src="https://info.gbg-coc.org/js/jquery.lazy.min.js"></script>
+    <script src="https://info.gbg-coc.org/js/jquery.paginate.js"></script>
+    <script src="https://info.gbg-coc.org/js/main.js"></script>
+
+    <script>
+</script>
+</body>
+
+</html>
+
+
+
+
+<!-- TIGER DEVS COPYRIGHT -->
